@@ -7,7 +7,7 @@ The main drive for Usenti has always been for use in GBA development. As such, i
 
 ## Readme
 
-[usenti-readme.txt](usenti-readme.txt)
+[usenti-readme.txt](usenti-readme.txt?raw=1)
 
 
 ## Downloads
