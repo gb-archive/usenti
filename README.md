@@ -14,8 +14,8 @@ The main drive for Usenti has always been for use in GBA development. As such, i
 
 Current version: 1.7.10.
 
-* 20080614: binary: [usenti-1.7.10.zip](usenti-1.7.10.zip)
-* 20080614: binary: [usenti-1.7.9.zip](usenti-1.7.9.zip)
-* 20071028: binary: [usenti-1.7.8.zip](usenti-1.7.8.zip)
-* 20070418: binary: [usenti-1.7.7.zip](usenti-1.7.7.zip)
-* 20060827: binary: [usenti-1.7.6.zip](usenti-1.7.6.zip)
+* 20080614: binary: [usenti-1.7.10.zip](usenti-1.7.10.zip?raw=1)
+* 20080614: binary: [usenti-1.7.9.zip](usenti-1.7.9.zip?raw=1)
+* 20071028: binary: [usenti-1.7.8.zip](usenti-1.7.8.zip?raw=1)
+* 20070418: binary: [usenti-1.7.7.zip](usenti-1.7.7.zip?raw=1)
+* 20060827: binary: [usenti-1.7.6.zip](usenti-1.7.6.zip?raw=1)
