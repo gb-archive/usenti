@@ -4,6 +4,7 @@ Usenti is a simple bitmap editor for paletted images, it is the result of me bei
 
 The main drive for Usenti has always been for use in GBA development. As such, it has a good exporter to GBA-usable formats. The same one as in grit in fact, so I'll refer you to that for further details.
 
+> This page is an historical archive maintained by [gbadev.net](https://gbadev.net/). The tool was originally published over `https://www.coranac.com/projects/#usenti`, now offline.
 
 ## Readme
 
